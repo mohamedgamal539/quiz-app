@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="master.css">
+</head>
+<body>
+    <div class="welcome-msg">
+            <h2>Welcome to Quiz App</h2>
+            <p>Choose language that you want to test yourself in.</p>
+            <div class="langs">
+                <span class="one">HTML</span>
+                <span class="two">CSS</span>
+                <span class="three">JS</span>
+            </div>
+    </div>
+    <div class="bg-colors">
+        <div class="white"></div>
+        <div class="black"></div>
+        <div class="rebeccapurple"></div>
+    </div>
+    <div class="container">
+        <div class="header">
+            <p class="category">Category: <span></span></p>
+            <P class="questions">Questions Count: <span></span></P>
+        </div>
+        <div class="content">
+            <h1></h1>
+            <div class="answers">
+                <div class="answer">
+                    <input id="1" type="radio" name="input">
+                    <label for="1"></label>
+                </div>
+                <div class="answer">
+                    <input id="2" type="radio" name="input">
+                    <label for="2"></label>
+                </div>
+                <div class="answer">
+                    <input id="3" type="radio" name="input">
+                    <label for="3"></label>
+                </div>
+                <div class="answer">
+                    <input id="4" type="radio" name="input">
+                    <label for="4"></label>
+                </div>
+            </div>
+        </div>
+        <input type="submit" value="Submit Answer">
+        <div class="footer">
+            <div class="circles"></div>
+            <p class="timer"><span class="minutes">0</span>:<span class="seconds"></span></p>
+        </div>
+        <div class="result"><span class="status"></span>, <span class="score">0</span> From <span class="total-score"></span></div>
+    </div>
+<script src="main.js"></script>
+</body>
+</html>

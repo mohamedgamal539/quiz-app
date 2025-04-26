@@ -1,0 +1,74 @@
+[
+    {
+      "question": "What is the purpose of the margin property in CSS?",
+      "answer1": "To set the space between an element's content and its border",
+      "answer2": "To set the space between elements",
+      "answer3": "To set the padding of an element",
+      "answer4": "To set the border of an element",
+      "rightAnswer": "To set the space between elements"
+    },
+    {
+      "question": "Which of the following is a valid value for the display property in CSS?",
+      "answer1": "inline-block",
+      "answer2": "block-inline",
+      "answer3": "inline-line",
+      "answer4": "block-line",
+      "rightAnswer": "inline-block"
+    },
+    {
+      "question": "What is the difference between padding and margin in CSS?",
+      "answer1": "padding is the space between an element's content and its border, while margin is the space between elements",
+      "answer2": "padding is the space between elements, while margin is the space between an element's content and its border",
+      "answer3": "padding is used for horizontal spacing, while margin is used for vertical spacing",
+      "answer4": "padding is used for vertical spacing, while margin is used for horizontal spacing",
+      "rightAnswer": "padding is the space between an element's content and its border, while margin is the space between elements"
+    },
+    {
+      "question": "Which of the following CSS properties is used to set the background color of an element?",
+      "answer1": "background-image",
+      "answer2": "background-color",
+      "answer3": "color",
+      "answer4": "bgcolor",
+      "rightAnswer": "background-color"
+    },
+    {
+      "question": "What is the purpose of the :hover pseudo-class in CSS?",
+      "answer1": "To style an element when it is clicked",
+      "answer2": "To style an element when it is hovered over",
+      "answer3": "To style an element when it is focused",
+      "answer4": "To style an element when it is active",
+      "rightAnswer": "To style an element when it is hovered over"
+    },
+    {
+      "question": "Which of the following is a valid way to apply a CSS style to an element?",
+      "answer1": "Using an inline style",
+      "answer2": "Using an internal style sheet",
+      "answer3": "Using an external style sheet",
+      "answer4": "All of the above",
+      "rightAnswer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the flexbox layout mode in CSS?",
+      "answer1": "To create a grid layout",
+      "answer2": "To create a flexible box layout",
+      "answer3": "To create a table layout",
+      "answer4": "To create a block layout",
+      "rightAnswer": "To create a flexible box layout"
+    },
+    {
+      "question": "Which of the following CSS properties is used to set the font size of an element?",
+      "answer1": "font-family",
+      "answer2": "font-size",
+      "answer3": "font-weight",
+      "answer4": "font-style",
+      "rightAnswer": "font-size"
+    },
+    {
+      "question": "What is the purpose of the media query in CSS?",
+      "answer1": "<To apply styles based on screen size",
+      "answer2": "To apply styles based on device type",
+      "answer3": "To apply styles based on user preferences",
+      "answer4": "All of the above",
+      "rightAnswer": "All of the above"
+    }
+  ]

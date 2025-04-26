@@ -1,0 +1,74 @@
+[
+    {
+      "question": "What is the purpose of the console.log() function in JavaScript?",
+      "answer1": "To display an alert box",
+      "answer2": "To log messages to the console",
+      "answer3": "To prompt the user for input",
+      "answer4": "To Create Horizontal Line",
+      "rightAnswer": "To log messages to the console"
+    },
+    {
+      "question": "Which of the following is a valid way to declare a variable in JavaScript?",
+      "answer1": "let x = 5;",
+      "answer2": "var x = 5;",
+      "answer3": "const x = 5;",
+      "answer4": "All of the above",
+      "rightAnswer": "All of the above"
+    },
+    {
+      "question": "What is the difference between null and undefined in JavaScript?",
+      "answer1": "null is a value that represents the absence of any object value, while undefined is a variable that has not been declared or assigned a value",
+      "answer2": "null is a variable that has not been declared, while undefined is a value that represents the absence of any object value",
+      "answer3": "null and undefined are the same thing",
+      "answer4": "null is a string value, while undefined is a number value",
+      "rightAnswer": "null is a value that represents the absence of any object value, while undefined is a variable that has not been declared or assigned a value"
+    },
+    {
+      "question": "Which of the following is an example of a JavaScript event?",
+      "answer1": "onclick",
+      "answer2": "onload",
+      "answer3": "onmousehover",
+      "answer4": "All of the above",
+      "rightAnswer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the addEventListener() method in JavaScript?",
+      "answer1": "To remove an event listener from an element",
+      "answer2": "To add an event listener to an element",
+      "answer3": "To trigger an event on an element",
+      "answer4": "To cancel an event on an element",
+      "rightAnswer": "To add an event listener to an element"
+    },
+    {
+      "question": "Which of the following JavaScript data types is used to represent a collection of key-value pairs?",
+      "answer1": "Array",
+      "answer2": "Object",
+      "answer3": "String",
+      "answer4": "Number",
+      "rightAnswer": "Object"
+    },
+    {
+      "question": "What is the purpose of the JSON.parse() method in JavaScript?",
+      "answer1": "To convert a JavaScript object to a JSON string",
+      "answer2": "To convert a JSON string to a JavaScript object",
+      "answer3": "To parse a JavaScript file",
+      "answer4": "To stringify a JavaScript object",
+      "rightAnswer": "To convert a JSON string to a JavaScript object"
+    },
+    {
+      "question": "Which of the following JavaScript methods is used to remove the last element from an array?",
+      "answer1": "push()",
+      "answer2": "pop()",
+      "answer3": "shift()",
+      "answer4": "unshift()",
+      "rightAnswer": "pop()"
+    },
+    {
+      "question": "What is the purpose of the setTimeout() function in JavaScript?",
+      "answer1": "To execute a function immediately",
+      "answer2": "To execute a function after a specified delay>",
+      "answer3": "To cancel a timeout",
+      "answer4": "To clear an interval",
+      "rightAnswer": "To execute a function after a specified delay>"
+    }
+  ]
